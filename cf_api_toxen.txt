@@ -1,0 +1,13 @@
+"Your API Token from Cloudflare"
+  
+  API TOKEN:
+  
+    Permissions:
+      - Zone / Zone / Read
+      - Zone / DNS / Edit
+
+    Zone Resources:
+      - Include / Specific zone / example.com
+
+  Then continue to summary.
+      copy the API Token and put in this file. Make sure to delete everything before pasting in this file.
