@@ -22,7 +22,7 @@ providers:
 certificatesResolvers:
   cloudflare:
     acme:
-      email: nuellofucoy@gmail.com
+      email: youremail@example.com
       storage: acme.json
       # caServer: https://acme-v02.api.letsencrypt.org/directory # prod (default) use this after everything is working correctly with the staging url
       caServer: https://acme-staging-v02.api.letsencrypt.org/directory # staging
